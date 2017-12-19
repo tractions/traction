@@ -66,7 +66,7 @@ public partial class Form : System.Web.UI.Page
         a[4] = new Attraction("Buckingham Palace", "westminster SW1A 1AA", 25, 5, darr[4], "9-19");
         a[5] = new Attraction("London Club", "SE 1 7PB", 32, 4, darr[5], "11-18");
         a[6] = new Attraction("Oxford Street", "Oxford St", 0, 4, darr[6], "8-21");
-        a[7] = new Attraction("Emirates Stadium", "Hornsey Rd, London N7 7 AJ", 150, 2, darr[7], "saturday noon");
+        a[7] = new Attraction("Emirates Stadium", "Hornsey Rd, London N7 7 AJ", 150, 4, darr[7], "saturday noon");
         a[8] = new Attraction("Street food union", "51-53 Rupert St", 10, 2, darr[8], "11-15");
         a[9] = new Attraction("Primark", "Oxford Street&3 Tottenham Court Road", 0, 3, darr[9], "9-22");
         return a;

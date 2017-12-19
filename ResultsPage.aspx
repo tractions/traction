@@ -6,6 +6,9 @@
 <head runat="server">
     <title>Treactions-complete your vacation</title>
 </head>
+<style>
+    @import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600,700);
+</style>
 <body>
     <form id="form1" runat="server">
     <div>
